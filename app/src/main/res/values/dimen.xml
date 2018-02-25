@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="normalSize">20sp</dimen>
+    <dimen name="bigSize">22sp</dimen>
+    <dimen name="smallSize">14sp</dimen>
+    <dimen name="linear_padding">3dp</dimen>
+    <dimen name="image_margin">10dp</dimen>
+    <dimen name="text_margin">20dp</dimen>
+    <dimen name="text_padding">8dp</dimen>
+
+</resources>
